@@ -1,9 +1,3 @@
-"""
-David Archer
-CS/IS 151 Python
-3-06-2022
-"""
-
 SALES_TAX = .07
 
 print("You'll be purchasing 5 items.")
