@@ -7,8 +7,10 @@ Hint: You shouldn't use spaces to pad the numbers, but rather format them using 
 e.g. format(x, "10,.2f").
 
 <tabel>
+
 # Code
   <img width="800" src="https://user-images.githubusercontent.com/101377287/196094533-70f17f04-3f3a-4b79-842e-e1b1f7008338.png"/>
+  
   # Result
   <img width="800" src="https://user-images.githubusercontent.com/101377287/196094720-5aa5a057-1394-499f-a924-8766a854362d.png"/>
 </table>
